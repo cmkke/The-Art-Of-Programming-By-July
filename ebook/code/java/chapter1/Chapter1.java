@@ -39,6 +39,7 @@ class Chapter1 {
         }
     }
 
+//添加注释test
     public static void main (String[] args) {
         Chapter1 chapter1 = new Chapter1();
         
